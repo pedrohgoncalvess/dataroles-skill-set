@@ -70,8 +70,6 @@ Some positions require you to use some no/low code software for developing dashb
 <div align="center">
 <h2>Positions</h2>
 <h3>Data analytics.</h3>
-</div>
-
 <p>
 The data analyst works in the opposite direction of the data scientist, focusing on talking about how and why things happened rather than making hypotheses about what might happen.
 This position usually works by participating more actively in meetings and creating dashboards so that the company's activity points can consume or that it can help in decision making, either making the analyzes more accurate or delivering the data as chewed up as possible using a lot of visualization like tools.
@@ -83,3 +81,4 @@ they are in high demand for vacancies and are allocated good working hours. Appl
 ![data-eng](https://user-images.githubusercontent.com/103412179/229604295-794d17a4-3b28-4263-adf6-45528bd26a0a.png)
 ![data-ops](https://user-images.githubusercontent.com/103412179/229604304-6094cf2d-95ff-4ed1-b490-6f3dc10767c9.png)
 ![data-sci](https://user-images.githubusercontent.com/103412179/229604310-44e61791-9c68-4833-af07-616b3fa0d720.png)
+</div>
