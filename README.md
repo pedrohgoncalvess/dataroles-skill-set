@@ -27,12 +27,13 @@ I gave grades from 1 to 10 (based on my experience) according to the use and the
 Applied mathematics is the area of mathematics that looks for ways to solve problems in companies especially in areas of finance, expansion, logistics and marketing, it is widely used (mandatory skill for people who deal with data) in data-oriented companies.
 The grades increase as the position needs to be closer to business-related indicators such as revenue, operating costs, CHURN, retention, etc.
 </p>
-
+<hr>
 
 > <strong>Advanced math.</strong>
 <p>
 Firstly, with advanced mathematics focused on data I mean the use of some areas such as calculus, probability, advanced statistics, linear regression among many other areas, it is distinguished from applied mathematics because, unlike it, advanced mathematics does not pass by """lots of changes""" in functions due to business rules, as opposed to applied math which is basically modeled by business rules.
 </p>
+<hr>
 
 > <strong>SQL</strong>
 <p>
@@ -40,6 +41,7 @@ Although it is quite obvious that functions around data must have knowledge in S
 The levels serve precisely to separate the subsets, following this line of reasoning I created a "straight line of wisdom".
 </p>
 <b>DQL > DTL > DQL ADVANCED > DML > DDL > DCL</b>
+<hr>
 
 > <strong>Programming</strong>
 <p>
@@ -48,11 +50,15 @@ The increase in grades in the various areas has to do with how much code the job
 along with the languages and the framework that you will use in your day to day.
 </p>
 
+<hr>
+
 > <strong>Business</strong>
 <p>
 With business I took the liberty to add some soft skills like communication and general market knowledge in the (imaginary) equation.
 Knowledge about the business in which the company you provide your services is basic for any position, be it development, commercial, marketing, etc., but how much business do you need to understand to be able to act minimally in the positions? I didn't use any mathematical formula or quantitative driver to define this, just my experience and knowledge in BI functions.
 </p>
+
+<hr>
 
 > <strong>Infra</strong>
 <p>
@@ -60,10 +66,14 @@ The infra skill refers to knowledge of deployment, monitoring pipe lines, identi
 Particularly it is a skill 8 or 80.
 </p>
 
+<hr>
+
 > <strong>No/low code softwares</strong>
 <p>
 Some positions require you to use some no/low code software for developing dashboards, pipeline, documentation, deployment, etc. The different levels are related to how much knowledge you should have about these tools and how much you will use them in your day-to-day life.
 </p>
+
+<hr>
 
 > <strong>Ponderation</strong>
 <p>
@@ -73,7 +83,6 @@ Weighting is an attempt to say how complex a position is in relation to the acti
 
 The weights of the weights were based on experience learning certain things related to skills and on informal surveys of some developers and data professionals. She should NEVER be taken as truth.
 </p>
-
 
 <hr>
 
@@ -94,18 +103,38 @@ For SQL and advanced math you don't need in-depth knowledge, you often won't nee
 
 - <h4 align='left'>Data analytics skills set points.</h4>
 
-![data-analytics](https://user-images.githubusercontent.com/103412179/229604274-22b88c0e-208b-404e-8b97-8d394d09e8fd.png)
-
+![data-analytics](https://user-images.githubusercontent.com/103412179/229784589-676200d2-e1dc-4085-9b24-491b62160829.png)
 
 <div align="center">
 _<h3>Data engineer.</h3>
 <p>
-Quoting the good article by Maxime Beauchemin, former data engineer at Facebook nova Meta, data engineers are much closer to their older brother Software Engineer than to their younger brother Data Scientist that's why instead of creating machine learning models , deep learning, data visualization or anything related, first of all a data engineer he creates the necessary tooling to abstract as much as possible from technical activities related to modeling, mining and manipulation of data, creating pipe lines, data lakes and data warehouses.
+Quoting the good article by Maxime Beauchemin, former data engineer at Facebook now Meta, data engineers are much closer to their older brother Software Engineer than to their younger brother Data Scientist that's why instead of creating machine learning models, deep learning, data visualization or anything related, first of all a data engineer he creates the necessary tooling to abstract as much as possible from technical activities related to modeling, mining and manipulation of data, creating pipelines, data lakes and data warehouses.
+</p>
+<p>
+Data engineers are responsible for database modeling, mining and data manipulation, this explains why I gave SQL a 10 in the skill along with 10 in programming like routines in Python with Airflow or creating pipelines in Scala due to the large amount of data. 
+In the day to day of a data engineer at IDEAL, reports or visualizations are not created for use on commercial fronts, nor machine learning or deep learning models, which is why the low grade in applied and advanced mathematics. The high score on infra is due to the fact that data engineers are very responsible for deployment environments, therefore knowledge in docker, terraform, cloud, etc.
+they are in great demand in vacancies and occupy good hours of work.
 </p>
 
-![data-eng](https://user-images.githubusercontent.com/103412179/229604295-794d17a4-3b28-4263-adf6-45528bd26a0a.png)
+- <h4 align='left'>Data engineers skills set points.</h4>
+
+
+
+![data-eng](https://user-images.githubusercontent.com/103412179/229784595-b3fbbc1a-723d-4420-81cd-279c4eded4be.png)
 </div>
 
-![data-ops](https://user-images.githubusercontent.com/103412179/229604304-6094cf2d-95ff-4ed1-b490-6f3dc10767c9.png)
-![data-sci](https://user-images.githubusercontent.com/103412179/229604310-44e61791-9c68-4833-af07-616b3fa0d720.png)
+<div align="center">
+_<h3>Data ops.</h3>
+
+<p>
+Yes, I know that data ops is not a person occupying a vacancy, but a culture equal to devops, but there was a materialization of the culture in which a person was leading the fronts for data ops, as happened in dev ops, in fact, others positions were born derived as ml ops which is basically data ops focused only on machine learning, so I think it's fair to materialize the culture in this text.
+</p>
+<p>
+A dataops mainly takes care of monitoring pipelines, studying business needs, new possibilities and improvements. He ensures data security, reliability and quality, but he also participates in budget meetings and architecture definitions, abstracting that responsibility from data engineers, so obviously he gives full marks in infrastructure and also in business. The reason for the high score in programming is due to the configuration of environments and knowledge in the most diverse software aimed at deployment and the software life cycle. Even though it seems counterintuitive to ensure data quality and I didn't give high marks in SQL, I don't think advanced knowledge of SQL is needed to do this. The grade in Advanced Mathematics is explanatory and the reasonable grade in Applied Mathematics is due to the participation in financial issues that are related to the operational costs of keeping the applications available and with a satisfactory level of use.
+</p>
+
+![data-ops](https://user-images.githubusercontent.com/103412179/229784598-8eb0288e-adcb-42ba-b041-55f4db3e2c39.png)
+</div>
+
+![data-sci](https://user-images.githubusercontent.com/103412179/229784602-4ec0bde9-6797-45a8-81fa-9afb04fce9ab.png)
 </div>
