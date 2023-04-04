@@ -77,6 +77,8 @@ Some positions require you to use some no/low code software for developing dashb
 
 > <strong>Ponderation</strong>
 <p>
+<b>The weight of the skill is greater in relation to the difficulty in learning its basics.</b>
+
 Weighting is an attempt to say how complex a position is in relation to the activities it performs and which are listed in the method. the account is
 
 <i>((Applied math * 1) + (Advanced math * 4) + (SQL * 2) + (Programming * 3) + (Business * 1) + (Infra * 3) + (No/low code * 1) / 15)</i>
