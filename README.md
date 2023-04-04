@@ -83,7 +83,9 @@ Weighting is an attempt to say how complex a position is in relation to the acti
 
 <i>((Applied math * 1) + (Advanced math * 4) + (SQL * 2) + (Programming * 3) + (Business * 1) + (Infra * 3) + (No/low code * 1) / 15)</i>
 
-The weights of the weights were based on experience learning certain things related to skills and on informal surveys of some developers and data professionals. <strong>DON'T</strong> take it as true.
+The weights of the weights were based on experience learning certain things related to skills and on informal surveys of some developers and data professionals.
+
+The higher the grade, the greater the difficulty. <strong>DON'T</strong> take it as true.
 </p>
 
 <hr>
