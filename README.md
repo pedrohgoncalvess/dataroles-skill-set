@@ -81,7 +81,7 @@ Weighting is an attempt to say how complex a position is in relation to the acti
 
 <i>((Applied math * 1) + (Advanced math * 4) + (SQL * 2) + (Programming * 3) + (Business * 1) + (Infra * 3) + (No/low code * 1) / 15)</i>
 
-The weights of the weights were based on experience learning certain things related to skills and on informal surveys of some developers and data professionals. She should NEVER be taken as truth.
+The weights of the weights were based on experience learning certain things related to skills and on informal surveys of some developers and data professionals. <strong>DON'T</strong> take it as true.
 </p>
 
 <hr>
@@ -103,8 +103,7 @@ For SQL and advanced math you don't need in-depth knowledge, you often won't nee
 
 - <h4 align='left'>Data analytics skills set points.</h4>
 
-![data-analytics](https://user-images.githubusercontent.com/103412179/229784589-676200d2-e1dc-4085-9b24-491b62160829.png)
-
+![data-analytics](https://user-images.githubusercontent.com/103412179/229837100-3c78d047-3679-4974-9d96-25261db28e30.png)
 <div align="center">
 _<h3>Data engineer.</h3>
 <p>
@@ -119,22 +118,42 @@ they are in great demand in vacancies and occupy good hours of work.
 - <h4 align='left'>Data engineers skills set points.</h4>
 
 
-
-![data-eng](https://user-images.githubusercontent.com/103412179/229784595-b3fbbc1a-723d-4420-81cd-279c4eded4be.png)
+![data-eng](https://user-images.githubusercontent.com/103412179/229837083-f7e623e2-d8fe-489f-a5b4-1fcdd9327563.png)
 </div>
 
 <div align="center">
 _<h3>Data ops.</h3>
 
 <p>
-Yes, I know that data ops is not a person occupying a vacancy, but a culture equal to devops, but there was a materialization of the culture in which a person was leading the fronts for data ops, as happened in dev ops, in fact, others positions were born derived as ml ops which is basically data ops focused only on machine learning, so I think it's fair to materialize the culture in this text.
-</p>
+Yes, I know that data ops is not a person occupying a vacancy, but a culture equal to devops, but there was a materialization of the culture in which a person was leading the fronts for data ops, as happened in devops, in fact, other positions were born derivatives of dataops like ml ops which is basically data ops focused only on machine learning, so I think it's fair to materialize the culture in this text.</p>
 <p>
 A dataops mainly takes care of monitoring pipelines, studying business needs, new possibilities and improvements. He ensures data security, reliability and quality, but he also participates in budget meetings and architecture definitions, abstracting that responsibility from data engineers, so obviously he gives full marks in infrastructure and also in business. The reason for the high score in programming is due to the configuration of environments and knowledge in the most diverse software aimed at deployment and the software life cycle. Even though it seems counterintuitive to ensure data quality and I didn't give high marks in SQL, I don't think advanced knowledge of SQL is needed to do this. The grade in Advanced Mathematics is explanatory and the reasonable grade in Applied Mathematics is due to the participation in financial issues that are related to the operational costs of keeping the applications available and with a satisfactory level of use.
 </p>
 
-![data-ops](https://user-images.githubusercontent.com/103412179/229784598-8eb0288e-adcb-42ba-b041-55f4db3e2c39.png)
+- <h4 align='left'>Data ops skills set points.</h4>
+
+![data-ops](https://user-images.githubusercontent.com/103412179/229837092-17042e40-3faf-466a-9e1f-437e92fac315.png)
 </div>
 
-![data-sci](https://user-images.githubusercontent.com/103412179/229784602-4ec0bde9-6797-45a8-81fa-9afb04fce9ab.png)
+<div align="center">
+_<h3>Data scientist.</h3>
+
+<p>
+Data science is probably the most famous position on data in recent times. Her reputation is equally equivalent to the difficulty of becoming one, because the activities that a data scientist performs are extremely complex, even with the tools abstracting most of the things that are more complex, such as complex calculations, collecting and cleaning data.
+</p>
+<p>
+The high marks in both math skills is self explanatory, you need to know both very well to develop artificial intelligence models that make sense for your business, this goes directly with business knowledge which is also needed but not at a very high level. In the ideal world, the data scientist is abstracted from functions that involve infra and even the collection and cleaning of data, a minimum knowledge is enough. With the popularization of AI, several no/low code software are emerging that abstract most of the complex tasks in the day-to-day of a data scientist, but knowledge in programming is still necessary, mainly in languages ​​such as R and Python and their frameworks which are references in the area and therefore the medium score in programming.
+</p>
+
+- <h4 align='left'>Data scientist skills set points.</h4>
+
+![data-sci](https://user-images.githubusercontent.com/103412179/229837096-85c0224c-ea7b-475a-975a-d825af357693.png)
 </div>
+</div>
+<hr>
+
+<h3> Some considerations </h3>
+
+<p>
+Perhaps you have already heard of some other functions such as ML Engineer, BI Specialist or others, these functions exist but they are consistent with the business model in which it is mentioned, they are usually ramifications of the 4 mentioned above
+</p>
